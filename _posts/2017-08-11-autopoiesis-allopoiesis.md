@@ -1,0 +1,40 @@
+---
+layout:     post
+title:      Autopoiesis and allopoiesis
+date:       2017-08-11 19:21:29
+summary:    Mario Iván Tarride, (2016) "Human being – organization homomorphism: between autopoiesis and allopoiesis", Kybernetes, Vol. 45 Issue: 3, pp.508-520 - 2장 : Autopoiesis and allopoiesis 번역
+categories: G.White E.F.Lichite
+---
+# Autopoiesis and allopoiesis
+## Mario Iván Tarride, (2016) "Human being – organization homomorphism: between autopoiesis and allopoiesis", Kybernetes, Vol. 45 Issue: 3, pp.508-520
+### 2장 : Autopoiesis and allopoiesis 번역
+
+> According to Maturana and Varela (1994, p. 69) living beings are autopoietic machines, i.e., “machines organized as a system of production processes of components linked in such a way that they produce components which: (i) generate the production processes (relations) that produce them through their continuous interactions and transformations, and (ii) constitute the machine as a unit in physical space.” Autopoietic machines are homeostatic, autonomous, individual, unitary, closed systems. Homeostatic because they conserve their network of production relations, i.e., their organization. Autonomous because all their changes are subordinated to the conservation of their organization. Individual because the conservation of their organization allows them to retain their identity; unitary because their operations establish their own limits; and organizationally closed because even though they can be affected by external perturbations, the changes they undergo are related only to the conservation of their organization (Maturana and Varela, 1994).
+
+Maturana and Varela (1994, p.69)에 따르면, 살아있는 존재는 autopoietic 기계이다. 즉, "(i) 연속적인 상호 작용과 변형을 통해 생산 과정 (관계)을 생성하고, (ii) 기계를 물리적 공간의 단위로서의 기계로 구성하는것 과 같은 요소를 생산하는 방식으로 연결된 구성 요소의 생산 프로세스 시스템으로 구성된 기계이다." Autopoietic 기계는 항상성, 자율성, 개별성, 단일성, 닫힌 시스템의 특징을 가지고 있다. 항상성은 그들이 생산 관계(그들의 조직)의 네트워크를 보존하기 때문이고, 자율성은 그들의 모든 변화가 그들 조직에 보전함에 종속되기 때문이고, 개별성은 조직의 보존으로 인해 자신의 정체성을 유지할 수 있기 때문이고, 단일성은 그들의 작동이 그들 자신의 한계를 수립할 수 있기 때문이고, 조직이 닫혀 있다 함은 비록 그들이 외부의 섭동으로 영향을 받을 수 있다고 하더라도, 그들이 겪는 변화는 조직의 보존에만 관련되기 때문이다. (Maturana and Varela, 1994)
+
+> To Maturana and Varela (1994) the concept of organization leads to the set of “relations that must exist or must occur for something to be.” It is deduced that the material of which something is made is completely irrelevant to its organization. Notice that Maturana and Varela (1994), the same as Ashby (1972), use the concept of machine to refer to a system whose materiality is not at play: it can be metallic, wooden or plastic, or flesh and bones. The former are interested in the relations between the components, while the latter are interested in their functions.
+
+Maturana와 Varela (1994)에서 조직의 개념은 "존재해야만하거나 존재하는 어떤것을 위하여 출현해야만하는 관계"의 집합으로 이끈다. 만들어진 어떤것의 재료는 그것의 조직과 완전히 무관하다는 것으로 추론된다. Ashby (1972)와 동일하게 Maturana와 Varela (1994)는 물질성이 작용하지 않는 시스템(이것은 금속, 나무 혹은 플라스틱 혹은 살과 뼈가 될 수 있다.)을 지칭하기 위해 기계의 개념을 사용한다는 것을 주목하라. 전자는 요소들의 관계에 관심이 있지만 후자는 그들의 기능에 관심이 있다.
+
+> Autopoietic machines (Maturana and Varela, 1994) from the standpoint of the conservation of their organization, are closed machines. This means that the environment is not involved in the dynamics of the structural changes that living beings undergo to maintain their organization, it only “triggers” them, but does not determine them; living beings are “structurally determined” systems (Maturana and Varela, 2003). However, at the same time it is possible to see in them a dynamics of chemical transformations that constitute their metabolism, through the exchange of matter and/or energy with their environment, without this meaning a contradiction; in this case they are treated as open (Bertalanffy, 1987) or alopoietic systems (Maturana and Varela, 1994).
+
+그들의 조직의 보전의 관점에서 Autopoietic machines (Maturana and Varela, 1994)는 닫힌  기계이다. 이것은 환경이 그들의 조직을 유지하기 위해 살아있는 구조적 변화의 역동성에 관여하지 않는다는 것을 의미한다. 이것은 단지 그것들을 "유발" 하지만 그것들을 결정하지는 않는다; 살아있는 존재는 "구조적으로 결정된" 체계이다(Maturana and Varela, 2003). 그러나 의미의 모순(이 경우 그들은 열림 또는 (Bertalanffy, 1987) 또는 allopoietic 시스템 (Maturana and Varela, 1994)으로 다뤄진다.)이 없다면 동시에 물질이나 에너지를 그들의 환경과 교환함으로써 물질 대사를 구성하는 화학적 변형의 역동성을 보는 것은 가능하다.
+
+> Allopoietic machines are then those that “produce through their operation something different from themselves” (Maturana and Varela, 1994, p. 71). They are not autonomous, because the changes that they undergo are dependent on the production of something different from them. Their identity depends on the observer and is not determined in their operation, because the product is different from its organization. Their limits are set by the observer when the inputs and outputs belonging to their operation are defined (Maturana and Varela, 1994).
+
+그러면 Allopoietic 기계는 "그들의 작동을 통해 그들 자신과 다른 뭔가를 생산하는" 기계 이다. 그들이 겪는 변화는 그들과 다른 무언가의 생산에 의존적 이기 때문에 그들은 자율적이지 않다. 그들의 정체성은 관측자에 의존적이며 생산물이 조직과 다르기 때문에 그들의 동작에 의해 결정되지 않는다. 그들의 한계는 관측자가 그들의 동작에 속한 입력과 출력이 정의 될 때 설정된다(Maturana and Varela, 1994).
+
+> Distinguishing the autopoiesis of a system means treating it as a closed system, focussing the interest in the conservation of its organization as a living being, whereas referring its allopoiesis means treating it as an open system, setting the viewpoint on its inputs, transformation processes and outlets. They are different views; the first one refers to the condition of the observed system as a living being, while the second refers to what the system does. In the latter case, the identity of the system arises for the observer.
+
+시스템의 autopoiesis를 분리해내는 것은 살아 있는 존재로서의 조직의 보전에 대한 관심에 초점을 맞춘 닫힌 시스템으로 취급함을 의미하지만, 반면에 시스템의 allopoiesis를 언급하는 것은 그것의 입력, 변형 과정 그리고 출구쪽으로 관점을 이동시키며 열린 시스템으로써 취급함을 의미한다. 이것들은 다른 관점이다; 첫번째는 살아있는 존재로서 관측된 시스템의 조건을 참고하지만, 두번째는 시스템이 하는 것을 참고한다. 후자의 경우, 시스템의 정체성은 관측자에게 발생한다.
+
+> Notice that it is not possible to assign a specific identity to a system if we look only at its autopoietic condition. All we can say is that we are dealing with a living being, nothing else, because the homomorphism with which the distinction is made is of such high level that it only allows giving it class identity, distinguishing between what is alive and what is inert.
+
+우리가 단지 시스템의 autopoietic 상태만 관찰할 경우 시스템에 특정한 정체성을 할당이 불가능함에 유의하자. 우리가 말할 수있는 것은 우리가 살아있는 존재(이외엔 없음)를 다루고 있다는 것입니다. 왜냐하면 구분이 이루어진 homomorphism은 활성인 것과 불활성인 것을 구분하여 그것에게 단지 등급 정체성만을 부여하는 것을 허용하는 그런 상위 레벨의 것이기 때문이다.
+
+*참고 homomorphism : 같은 대수적 구조를 가지는 두 대상 간의 함수들 중 대수적 구조를 보존하는 함수를 준동형사상(homomorphism)이라고 한다. 구조를 보존하는 함수로 정의된 2개의 객체(2개의 복합체)간의 관계를 말한다.(어떠한 물리법칙이 각 좌표에서 다르게 기술되더라도 그것의 본질은 같아야 한다는 점에서 좌표들 사이의 변환은 isomorphism 이어야한다. isomorphism은 homomorphism + bijection 이다.) 즉 homomorphism이란 결국, map이 연산을 보존하는가에 대한 질문이다.*
+
+> We understand that an autopoietic machine can be treated as allopoietic, but this does not reveal its autopoietic organization; it only allows its observer to distinguish what affects it – inputs – and the responses that it offers to neutralize those perturbations – outputs. Also, breaking down an autopoietic machine does not allow recognizing submachines or components of the autopoietic system that is being studied, since that is a condition that is expressed only by the interactions that materialize their autopoietic organization. We therefore state that every autopoietic machine is also allopioetic, but not all allopoietic machines are autopoietic; this will happen if, and only if, we are dealing with a living being.
+
+우리는 autopoietic 기계는 allopoietic으로 취급될 수 있음을 이해하지만 이것은 기계의 autopoietic 조직을 밝히지 못한다; 그것은 단지 관측자가 입력으로써 그것에 영향을 주는 것과 출력으로 그것들의 섭동을 중립화하기 위해 제공하는 응답을 구별 할 수만 있다. 또한 autopoietic 기계를 분해하는 것은 그들의 autopoietic 조직을 구체화 하는 상호 작용에 의해서만 표현되는 조건이기 때문에 연구되고 있는 autopoietic 시스템의 부속기계나 구성 요소들을 식별하는 것을 허용하지 않는다. 그러므로 우리는 모든 autopoietic 기계는 allopoietic 이지만, 모든 allopoietic 기계는 autopoietic(이것은 우리가 살아있는 존재를 취급할 때만 일어날 것이다.)이 아니다라고 언급할 수 있다.
