@@ -1,0 +1,43 @@
+/*
+ * Noto Serif (Korean) 
+ */
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 900;
+  src: url(fonts/NotoSerif-Regular.eot);
+  src: url(fonts/NotoSerif-Regular.eot?#iefix) format('embedded-opentype'),
+       url(fonts/NotoSerif-Regular.woff2) format('woff2'),
+       url(fonts/NotoSerif-Regular.woff) format('woff'),
+       url(fonts/NotoSerif-Regular.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 300;
+  src: url(fonts/NotoSerif-Bold.eot);
+  src: url(fonts/NotoSerif-Bold.eot?#iefix) format('embedded-opentype'),
+       url(fonts/NotoSerif-Bold.woff2) format('woff2'),
+       url(fonts/NotoSerif-Bold.woff) format('woff'),
+       url(fonts/NotoSerif-Bold.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: italic;
+  font-weight: 900;
+  src: url(fonts/NotoSerif-Italic.eot);
+  src: url(fonts/NotoSerif-Italic.eot?#iefix) format('embedded-opentype'),
+       url(fonts/NotoSerif-Italic.woff2) format('woff2'),
+       url(fonts/NotoSerif-Italic.woff) format('woff'),
+       url(fonts/NotoSerif-Italic.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: italic;
+  font-weight: 300;
+  src: url(fonts/NotoSerif-BoldItalic.eot);
+  src: url(fonts/NotoSerif-BoldItalic.eot?#iefix) format('embedded-opentype'),
+       url(fonts/NotoSerif-BoldItalic.woff2) format('woff2'),
+       url(fonts/NotoSerif-BoldItalic.woff) format('woff'),
+       url(fonts/NotoSerif-BoldItalic.ttf) format('truetype');
+}
