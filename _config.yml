@@ -1,15 +1,15 @@
 # Site settings
-title:       SNUPA
-email:       inkyung@snu.ac.kr
+title:       SHTPI PORJECTS API
+email:       eunchurn.park@gmail.com
 author:      Eunchurn Park
-description: "Study of Performing Art"
+description: "SHTPI Projects API Documentations"
 baseurl:     ""
-url:         "https://eunchurn.github.io"
+url:         "https://shtpi.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
  - contact.html
-
+ - cctvaod
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account

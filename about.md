@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Inkyung Baik
+title: About
 permalink: /about/
 tags: about
 ---
 
-[Inkyung Baik](https://www.facebook.com/inkyung.baik)
-([inkyung@snu.ac.kr](inkyung@snu.ac.kr)).
+[S.H. Technology & Policy Institute](http://shtpi.co.kr/)
+
 
 
 List of contributors:
