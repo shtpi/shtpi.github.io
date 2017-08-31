@@ -1,9 +1,8 @@
 ---
 layout:     post
-title:      Autopoiesis and allopoiesis
+title:      프로젝트 API 사용 설명서
 date:       2017-08-11 19:21:29
-summary:    Mario Iván Tarride, (2016) "Human being - organization homomorphism - between autopoiesis and allopoiesis", Kybernetes, Vol. 45 Issue. 3, pp.508-520 - 2장. Autopoiesis and allopoiesis 번역
-categories: G.White E.F.Lichite
+summary:    2017년 박은천 작성
 ---
 ## Mario Iván Tarride, (2016) "Human being – organization homomorphism: between autopoiesis and allopoiesis", Kybernetes, Vol. 45 Issue: 3, pp.508-520
 ### 2장 : Autopoiesis and allopoiesis 번역
