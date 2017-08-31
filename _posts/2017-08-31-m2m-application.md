@@ -1,13 +1,14 @@
 ---
 layout:     post
-title:      프로젝트 API 사용 설명서
-date:       2017-08-11 19:21:29
+title:      M2M 웹어플리케이션
+date:       2017-08-25 19:21:29
 summary:    2017년 박은천 작성
 ---
-## (주)승화기술정책연구소 프로젝트의 API 사용설명서
+## M2M 프로젝트 중 센서노드와 각 N키퍼에서 구동되는 웹어플리케이션 시스템
 ### PREFACE
 
-<button class="default" href="/cctvadf">M2M Application</button>
+<button>API DOCS</button> <button>Repository</button> <button> Application</button>
+
 homomorphism<sup id="homomorphism">[1](#fnhomomorphism)</sup>
 
 
