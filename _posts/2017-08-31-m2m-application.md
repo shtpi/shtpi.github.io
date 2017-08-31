@@ -25,6 +25,7 @@ Sensors data is streaming display and get from `Redis` (in-memory key-value stor
 ### 자동실행스크립트 `m2m_combined.sh` 실행
 - `/scripts`폴더에 `m2m_combined.sh`와 `m2mserver.sh`를 다운로드 후
 - 스크립트 파일 수정 `$ nano m2m_combined.sh`
+
 ```
 #!/bin/sh
 sudo sed -i 's/kr.archive.ubuntu.com/ftp.daum.net/g' /etc/apt/sources.list #우분투 업데이트 리스트 및 저장소 변경
@@ -61,6 +62,7 @@ pip3 install xlrd
 sudo sed -i s/enabled=1/enabled=0/ /etc/default/apport
 ```
 - M2M 웹서버 자동 실행 스크립트 수정 `m2mserver.sh`
+
 ```
 #!/bin/bash
 
